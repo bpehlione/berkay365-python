@@ -24,4 +24,4 @@ Bu repository, yazılım ve yapay zeka öğrenme yolculuğumu belgelemek için o
 
 - Day 01 - Hello Python
 - Day 02 - Age Calculator
-- Day 03 - ...
+- Day 03 - String Exercises
