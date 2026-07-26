@@ -1,4 +1,4 @@
-# 🚀 Berkay365 - Python Journey
+# 🚀 Berkay365 - Python & AI Journey
 
 Merhaba!
 
